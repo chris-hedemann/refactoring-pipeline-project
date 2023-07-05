@@ -1,10 +1,6 @@
 # Refactoring Project
 
-Please do not fork this repository, but use this repository as a template for your refactoring project. Make Pull Requests to your own repository even if you work alone and mark the checkboxes with an `x`, if you are done with a topic in the pull request message.
-
-## Project for today
-
-The task for today you can find in the [project-for-today.md](./project-for-today.md) file.
+This is a refactoring project (currently in progress) to transform a data analysis and feature engineering notebook into a data ingestion pipeline, with a FastAPI web app for user interaction. It's a project performed as part of the neue Fische ML Engineering bootcamp in July 2023.
 
 ## Setup
 
